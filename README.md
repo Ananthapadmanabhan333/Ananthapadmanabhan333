@@ -226,22 +226,47 @@ I am a multi-disciplinary **AI Full Stack Developer** and **Product Engineer** d
 </details>
 
 <details>
-<summary><b>📦 Other Repositories</b></summary>
-<blockquote><b>Architecture:</b> Utility scripts, templates, fundamental learning modules, and community contributions.</blockquote>
+<summary><b>🏥 Health, Medical & Wellness</b></summary>
+<blockquote><b>Focus:</b> Clinical intelligence, bio-informatics, and fitness automation.</blockquote>
 
-- [Patent-](https://github.com/Ananthapadmanabhan333/Patent-) | [Offline-Network-Clubs](https://github.com/Ananthapadmanabhan333/Offline-Network-Clubs) | [chat-App](https://github.com/Ananthapadmanabhan333/chat-App)
-- [Movie_listing_web](https://github.com/Ananthapadmanabhan333/Movie_listing_web) | [500-AI-Agents-Projects](https://github.com/Ananthapadmanabhan333/500-AI-Agents-Projects) | [Medicine](https://github.com/Ananthapadmanabhan333/Medicine)
-- [laundrywala](https://github.com/Ananthapadmanabhan333/laundrywala) | [Universal-Master-Prompt](https://github.com/Ananthapadmanabhan333/Universal-Master-Prompt) | [Black-Box](https://github.com/Ananthapadmanabhan333/Black-Box)
-- [LINK-CAMP-2025-Webmaster-Task](https://github.com/Ananthapadmanabhan333/LINK-CAMP-2025-Webmaster-Task) | [openhuman](https://github.com/Ananthapadmanabhan333/openhuman) | [acton](https://github.com/Ananthapadmanabhan333/acton)
-- [govTech](https://github.com/Ananthapadmanabhan333/govTech) | [system-design-notes](https://github.com/Ananthapadmanabhan333/system-design-notes) | [karmlink](https://github.com/Ananthapadmanabhan333/karmlink)
-- [astrux](https://github.com/Ananthapadmanabhan333/astrux) | [BioNexus-AI](https://github.com/Ananthapadmanabhan333/BioNexus-AI) | [synaspse_ai](https://github.com/Ananthapadmanabhan333/synaspse_ai)
-- [Mash](https://github.com/Ananthapadmanabhan333/Mash) | [skills-communicate-using-markdown](https://github.com/Ananthapadmanabhan333/skills-communicate-using-markdown) | [CSE-AIML-AI-lab-Program](https://github.com/Ananthapadmanabhan333/CSE-AIML-AI-lab-Program)
-- [neurodiversity_ai](https://github.com/Ananthapadmanabhan333/neurodiversity_ai) | [cubic_solver.ipynb](https://github.com/Ananthapadmanabhan333/cubic_solver.ipynb) | [fitness_excuss](https://github.com/Ananthapadmanabhan333/fitness_excuss)
-- [MVP](https://github.com/Ananthapadmanabhan333/MVP) | [portfolio](https://github.com/Ananthapadmanabhan333/portfolio) | [todolist](https://github.com/Ananthapadmanabhan333/todolist)
-- [Biography-page](https://github.com/Ananthapadmanabhan333/Biography-page) | [Github-Enablment-Task](https://github.com/Ananthapadmanabhan333/Github-Enablment-Task) | [gym-excuse-gen](https://github.com/Ananthapadmanabhan333/gym-excuse-gen)
-- [interview-company-wise-problems](https://github.com/Ananthapadmanabhan333/interview-company-wise-problems) | [Awesome-Projects](https://github.com/Ananthapadmanabhan333/Awesome-Projects) | [My-Projects](https://github.com/Ananthapadmanabhan333/My-Projects)
-- [AI-Lab](https://github.com/Ananthapadmanabhan333/AI-Lab) | [Code-Snippets](https://github.com/Ananthapadmanabhan333/Code-Snippets) | [Personal-Website](https://github.com/Ananthapadmanabhan333/Personal-Website)
-- [Data-Structures](https://github.com/Ananthapadmanabhan333/Data-Structures) | [Algorithms](https://github.com/Ananthapadmanabhan333/Algorithms) | [forage-midas](https://github.com/Ananthapadmanabhan333/forage-midas)
+- [Medicine](https://github.com/Ananthapadmanabhan333/Medicine) | [BioNexus-AI](https://github.com/Ananthapadmanabhan333/BioNexus-AI) | [neurodiversity_ai](https://github.com/Ananthapadmanabhan333/neurodiversity_ai)
+- [fitness_excuss](https://github.com/Ananthapadmanabhan333/fitness_excuss) | [gym-excuse-gen](https://github.com/Ananthapadmanabhan333/gym-excuse-gen) | [openhuman](https://github.com/Ananthapadmanabhan333/openhuman)
+</details>
+
+<details>
+<summary><b>💰 Finance & Quantitative Engineering</b></summary>
+<blockquote><b>Focus:</b> Quantitative analysis, algorithmic simulation, and fintech utilities.</blockquote>
+
+- [forage-midas](https://github.com/Ananthapadmanabhan333/forage-midas) | [Financial-Reality-Stimulator](https://github.com/Ananthapadmanabhan333/Financial-Reality-Stimulator) | [AstraQuant-X](https://github.com/Ananthapadmanabhan333/AstraQuant-X)
+</details>
+
+<details>
+<summary><b>🧠 Academic, DSA & Cognitive Learning</b></summary>
+<blockquote><b>Focus:</b> Algorithmic foundations, system design, and AI laboratory programs.</blockquote>
+
+- [Data-Structures](https://github.com/Ananthapadmanabhan333/Data-Structures) | [Algorithms](https://github.com/Ananthapadmanabhan333/Algorithms) | [system-design-notes](https://github.com/Ananthapadmanabhan333/system-design-notes)
+- [interview-company-wise-problems](https://github.com/Ananthapadmanabhan333/interview-company-wise-problems) | [CSE-AIML-AI-lab-Program](https://github.com/Ananthapadmanabhan333/CSE-AIML-AI-lab-Program) | [AI-Lab](https://github.com/Ananthapadmanabhan333/AI-Lab)
+- [skills-communicate-using-markdown](https://github.com/Ananthapadmanabhan333/skills-communicate-using-markdown) | [Github-Enablment-Task](https://github.com/Ananthapadmanabhan333/Github-Enablment-Task)
+</details>
+
+<details>
+<summary><b>🎨 Personal Brand & Professional Assets</b></summary>
+<blockquote><b>Focus:</b> Portfolio architecture, professional documentation, and curated resources.</blockquote>
+
+- [portfolio](https://github.com/Ananthapadmanabhan333/portfolio) | [Personal-Website](https://github.com/Ananthapadmanabhan333/Personal-Website) | [Biography-page](https://github.com/Ananthapadmanabhan333/Biography-page)
+- [My-Projects](https://github.com/Ananthapadmanabhan333/My-Projects) | [Awesome-Projects](https://github.com/Ananthapadmanabhan333/Awesome-Projects) | [Code-Snippets](https://github.com/Ananthapadmanabhan333/Code-Snippets)
+- [Universal-Master-Prompt](https://github.com/Ananthapadmanabhan333/Universal-Master-Prompt) | [500-AI-Agents-Projects](https://github.com/Ananthapadmanabhan333/500-AI-Agents-Projects)
+</details>
+
+<details>
+<summary><b>🛠️ Social, Utilities & Misc Experiments</b></summary>
+<blockquote><b>Focus:</b> Real-time communication, civic tools, and architectural experiments.</blockquote>
+
+- [chat-App](https://github.com/Ananthapadmanabhan333/chat-App) | [Movie_listing_web](https://github.com/Ananthapadmanabhan333/Movie_listing_web) | [laundrywala](https://github.com/Ananthapadmanabhan333/laundrywala)
+- [todolist](https://github.com/Ananthapadmanabhan333/todolist) | [Mash](https://github.com/Ananthapadmanabhan333/Mash) | [acton](https://github.com/Ananthapadmanabhan333/acton)
+- [Offline-Network-Clubs](https://github.com/Ananthapadmanabhan333/Offline-Network-Clubs) | [govTech](https://github.com/Ananthapadmanabhan333/govTech) | [karmlink](https://github.com/Ananthapadmanabhan333/karmlink)
+- [astrux](https://github.com/Ananthapadmanabhan333/astrux) | [synaspse_ai](https://github.com/Ananthapadmanabhan333/synaspse_ai) | [Black-Box](https://github.com/Ananthapadmanabhan333/Black-Box)
+- [Patent-](https://github.com/Ananthapadmanabhan333/Patent-) | [LINK-CAMP-2025-Webmaster-Task](https://github.com/Ananthapadmanabhan333/LINK-CAMP-2025-Webmaster-Task) | [cubic_solver.ipynb](https://github.com/Ananthapadmanabhan333/cubic_solver.ipynb) | [MVP](https://github.com/Ananthapadmanabhan333/MVP)
 </details>
 
 ---
