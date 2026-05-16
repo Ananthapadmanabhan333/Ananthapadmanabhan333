@@ -132,6 +132,12 @@ I am a multi-disciplinary **AI Full Stack Developer** and **Product Engineer** d
 - [Titan-Scheduler-Omega](https://github.com/Ananthapadmanabhan333/Titan-Scheduler-Omega) | **Structure:** Distributed GPU Resource Scheduler | *TypeScript*
 - [Atlas-Flow-X](https://github.com/Ananthapadmanabhan333/Atlas-Flow-X) | **Structure:** Global Supply Chain Agent | *TypeScript*
 - [NeuralWeb-X](https://github.com/Ananthapadmanabhan333/NeuralWeb-X) | **Structure:** Semantic Web Search Engine | *TypeScript*
+- [Neurosync-X](https://github.com/Ananthapadmanabhan333/Neurosync-X) | **Structure:** Neural Interface Integration | *TypeScript*
+- [AstraQuant-X](https://github.com/Ananthapadmanabhan333/AstraQuant-X) | **Structure:** Autonomous Quantitative Engine | *Python*
+- [ARES-X](https://github.com/Ananthapadmanabhan333/ARES-X) | **Structure:** Exascale Resource Arbiter | *TypeScript*
+- [Quantmind](https://github.com/Ananthapadmanabhan333/Quantmind) | **Structure:** Cognitive Financial Intelligence | *Python*
+- [AdSpectra-OS](https://github.com/Ananthapadmanabhan333/AdSpectra-OS) | **Structure:** Autonomous Marketing OS | *TypeScript*
+- [Aegis-Global](https://github.com/Ananthapadmanabhan333/Aegis-Global) | **Structure:** Planetary Security Framework | *TypeScript*
 </details>
 
 <details>
@@ -144,6 +150,9 @@ I am a multi-disciplinary **AI Full Stack Developer** and **Product Engineer** d
 - [Producthunt-Gap-Finder-Agent](https://github.com/Ananthapadmanabhan333/Producthunt-Gap-Finder-Agent) | **Structure:** Market Intelligence Scraper | *Python*
 - [Learn-Agent](https://github.com/Ananthapadmanabhan333/Learn-Agent) | **Structure:** Personalized Curriculum Agent | *Python*
 - [AI-personal-chief-of-staff](https://github.com/Ananthapadmanabhan333/AI-personal-chief-of-staff) | **Structure:** Executive Orchestrator | *TypeScript*
+- [Meeting-Recordings--Actions-Items-AI](https://github.com/Ananthapadmanabhan333/Meeting-Recordings--Actions-Items-AI) | **Structure:** Semantic Meeting Auditor | *Python*
+- [Life-Strategy-Consultant](https://github.com/Ananthapadmanabhan333/Life-Strategy-Consultant) | **Structure:** Decision Optimization Agent | *TypeScript*
+- [multi-agent-system](https://github.com/Ananthapadmanabhan333/multi-agent-system) | **Structure:** Collaborative Agent Swarm | *Python*
 </details>
 
 <details>
@@ -156,6 +165,12 @@ I am a multi-disciplinary **AI Full Stack Developer** and **Product Engineer** d
 - [airllm](https://github.com/Ananthapadmanabhan333/airllm) | **Structure:** Low-VRAM Inference Engine | *Jupyter*
 - [Scrapegraph-ai](https://github.com/Ananthapadmanabhan333/Scrapegraph-ai) | **Structure:** LLM-based Web Scraping | *Python*
 - [Symptom-Prediction](https://github.com/Ananthapadmanabhan333/Symptom-Prediction) | **Structure:** Random Forest / CNN Classifier | *Python*
+- [Mentalist-LLM](https://github.com/Ananthapadmanabhan333/Mentalist-LLM) | **Structure:** Psychological Pattern Cognition | *Python*
+- [Mutant-IQ](https://github.com/Ananthapadmanabhan333/Mutant-IQ) | **Structure:** Evolutionary AI Architecture | *Python*
+- [Rank-Forge-AI](https://github.com/Ananthapadmanabhan333/Rank-Forge-AI) | **Structure:** Semantic Ranking Engine | *Python*
+- [SignalAI](https://github.com/Ananthapadmanabhan333/SignalAI) | **Structure:** Real-time Pattern Intelligence | *TypeScript*
+- [LLMs-from-scratch](https://github.com/Ananthapadmanabhan333/LLMs-from-scratch) | **Structure:** Core Transformer Impls | *Python*
+- [Ai-Negotiation-stimulator](https://github.com/Ananthapadmanabhan333/Ai-Negotiation-stimulator) | **Structure:** Game Theory Agent | *Python*
 </details>
 
 <details>
@@ -167,6 +182,10 @@ I am a multi-disciplinary **AI Full Stack Developer** and **Product Engineer** d
 - [AI-Security-Vulnerability-Detector-and-Auto-Fixer](https://github.com/Ananthapadmanabhan333/AI-Security-Vulnerability-Detector-and-Auto-Fixer) | **Structure:** Static Analysis + LLM Fixer | *Python*
 - [AI-Powered-API-load-Tester-And-Performance-Intelligence-Platform](https://github.com/Ananthapadmanabhan333/AI-Powered-API-load-Tester-And-Performance-Intelligence-Platform) | **Structure:** Stress-Test Analytics | *TypeScript*
 - [API-Reverse-Engineer-And-SDK-Generation-Platform](https://github.com/Ananthapadmanabhan333/API-Reverse-Engineer-And-SDK-Generation-Platform) | **Structure:** Dynamic OpenAPI Generator | *TypeScript*
+- [Reputation-score-Platform](https://github.com/Ananthapadmanabhan333/Reputation-score-Platform) | **Structure:** Decentralized Scoring System | *TypeScript*
+- [Environment-optimization-service](https://github.com/Ananthapadmanabhan333/Environment-optimization-service) | **Structure:** Resource Lifecycle Manager | *Go*
+- [gstack](https://github.com/Ananthapadmanabhan333/gstack) | **Structure:** High-performance Full-Stack SDK | *TypeScript*
+- [unified-grievance-system](https://github.com/Ananthapadmanabhan333/unified-grievance-system) | **Structure:** Enterprise CRM Backbone | *TypeScript*
 </details>
 
 <details>
@@ -178,6 +197,20 @@ I am a multi-disciplinary **AI Full Stack Developer** and **Product Engineer** d
 - [SAAS-BOILERPLATE-GENERATOR](https://github.com/Ananthapadmanabhan333/SAAS-BOILERPLATE-GENERATOR) | **Structure:** Modular Template Engine | *TypeScript*
 - [MEDSIGHT](https://github.com/Ananthapadmanabhan333/MEDSIGHT) | **Structure:** HIPAA-compliant React Suite | *TypeScript*
 - [Hospital-Management](https://github.com/Ananthapadmanabhan333/Hospital-Management) | **Structure:** Full-Stack Node.js App | *JavaScript*
+- [Freelancer-CRM-with-AI](https://github.com/Ananthapadmanabhan333/Freelancer-CRM-with-AI) | **Structure:** Next.js CRM Dashboard | *TypeScript*
+- [Personal-Data-Marketplace](https://github.com/Ananthapadmanabhan333/Personal-Data-Marketplace) | **Structure:** Data Ownership Platform | *TypeScript*
+- [CashScope-AI](https://github.com/Ananthapadmanabhan333/CashScope-AI) | **Structure:** Intelligent FinTech Dashboard | *TypeScript*
+- [AI-for-healthcare](https://github.com/Ananthapadmanabhan333/AI-for-healthcare) | **Structure:** Clinical Decision System | *Python*
+- [burnout-recovery-clinics](https://github.com/Ananthapadmanabhan333/burnout-recovery-clinics) | **Structure:** Wellness Management App | *TypeScript*
+- [automation-for-small-business](https://github.com/Ananthapadmanabhan333/automation-for-small-business) | **Structure:** Low-code Automation Hub | *TypeScript*
+- [adaptive-learning-platform](https://github.com/Ananthapadmanabhan333/adaptive-learning-platform) | **Structure:** Personalized EduTech | *TypeScript*
+- [ai-fitness-tracker](https://github.com/Ananthapadmanabhan333/ai-fitness-tracker) | **Structure:** Computer Vision Workouts | *Python*
+- [Ai_fitness_App](https://github.com/Ananthapadmanabhan333/Ai_fitness_App) | **Structure:** Cross-platform Fitness UI | *Flutter*
+- [budget-app](https://github.com/Ananthapadmanabhan333/budget-app) | **Structure:** Real-time Expense Tracking | *TypeScript*
+- [youtube_clone](https://github.com/Ananthapadmanabhan333/youtube_clone) | **Structure:** High-fidelity Video Streamer | *TypeScript*
+- [Resonance](https://github.com/Ananthapadmanabhan333/Resonance) | **Structure:** Real-time Audio Analytics | *TypeScript*
+- [employee-management](https://github.com/Ananthapadmanabhan333/employee-management) | **Structure:** Enterprise HR Suite | *TypeScript*
+- [challi-detector](https://github.com/Ananthapadmanabhan333/challi-detector) | **Structure:** Niche Security Product | *Python*
 </details>
 
 <details>
@@ -188,17 +221,28 @@ I am a multi-disciplinary **AI Full Stack Developer** and **Product Engineer** d
 - [VS-Code-AI-Copilot-Extension-Platform](https://github.com/Ananthapadmanabhan333/VS-Code-AI-Copilot-Extension-Platform) | **Structure:** VS Code Extension Host | *TypeScript*
 - [Financial-Reality-Stimulator](https://github.com/Ananthapadmanabhan333/Financial-Reality-Stimulator) | **Structure:** Monte Carlo Simulation Agent | *TypeScript*
 - [Longevity-Optimization-Clinics](https://github.com/Ananthapadmanabhan333/Longevity-Optimization-Clinics) | **Structure:** Next.js Landing Page | *TypeScript*
+- [attention-tracking-app](https://github.com/Ananthapadmanabhan333/attention-tracking-app) | **Structure:** Focus Optimization Tool | *Python*
+- [Multimodel-Document-Intelligence-Platform](https://github.com/Ananthapadmanabhan333/Multimodel-Document-Intelligence-Platform) | **Structure:** Multi-modal OCR/RAG | *Python*
 </details>
 
 <details>
 <summary><b>📦 Other Repositories</b></summary>
-<blockquote><b>Architecture:</b> Utility scripts, templates, and fundamental learning modules.</blockquote>
+<blockquote><b>Architecture:</b> Utility scripts, templates, fundamental learning modules, and community contributions.</blockquote>
 
-- [Patent-](https://github.com/Ananthapadmanabhan333/Patent-) | *Structure: Research Repo*
-- [Offline-Network-Clubs](https://github.com/Ananthapadmanabhan333/Offline-Network-Clubs) | *Structure: Community Platform*
-- [chat-App](https://github.com/Ananthapadmanabhan333/chat-App) | *Structure: Socket.io Real-time*
-- [Movie_listing_web](https://github.com/Ananthapadmanabhan333/Movie_listing_web) | *Structure: API Consumer App*
-- [500-AI-Agents-Projects](https://github.com/Ananthapadmanabhan333/500-AI-Agents-Projects) | *Structure: Curated Resource List*
+- [Patent-](https://github.com/Ananthapadmanabhan333/Patent-) | [Offline-Network-Clubs](https://github.com/Ananthapadmanabhan333/Offline-Network-Clubs) | [chat-App](https://github.com/Ananthapadmanabhan333/chat-App)
+- [Movie_listing_web](https://github.com/Ananthapadmanabhan333/Movie_listing_web) | [500-AI-Agents-Projects](https://github.com/Ananthapadmanabhan333/500-AI-Agents-Projects) | [Medicine](https://github.com/Ananthapadmanabhan333/Medicine)
+- [laundrywala](https://github.com/Ananthapadmanabhan333/laundrywala) | [Universal-Master-Prompt](https://github.com/Ananthapadmanabhan333/Universal-Master-Prompt) | [Black-Box](https://github.com/Ananthapadmanabhan333/Black-Box)
+- [LINK-CAMP-2025-Webmaster-Task](https://github.com/Ananthapadmanabhan333/LINK-CAMP-2025-Webmaster-Task) | [openhuman](https://github.com/Ananthapadmanabhan333/openhuman) | [acton](https://github.com/Ananthapadmanabhan333/acton)
+- [govTech](https://github.com/Ananthapadmanabhan333/govTech) | [system-design-notes](https://github.com/Ananthapadmanabhan333/system-design-notes) | [karmlink](https://github.com/Ananthapadmanabhan333/karmlink)
+- [astrux](https://github.com/Ananthapadmanabhan333/astrux) | [BioNexus-AI](https://github.com/Ananthapadmanabhan333/BioNexus-AI) | [synaspse_ai](https://github.com/Ananthapadmanabhan333/synaspse_ai)
+- [Mash](https://github.com/Ananthapadmanabhan333/Mash) | [skills-communicate-using-markdown](https://github.com/Ananthapadmanabhan333/skills-communicate-using-markdown) | [CSE-AIML-AI-lab-Program](https://github.com/Ananthapadmanabhan333/CSE-AIML-AI-lab-Program)
+- [neurodiversity_ai](https://github.com/Ananthapadmanabhan333/neurodiversity_ai) | [cubic_solver.ipynb](https://github.com/Ananthapadmanabhan333/cubic_solver.ipynb) | [fitness_excuss](https://github.com/Ananthapadmanabhan333/fitness_excuss)
+- [MVP](https://github.com/Ananthapadmanabhan333/MVP) | [portfolio](https://github.com/Ananthapadmanabhan333/portfolio) | [todolist](https://github.com/Ananthapadmanabhan333/todolist)
+- [Biography-page](https://github.com/Ananthapadmanabhan333/Biography-page) | [Github-Enablment-Task](https://github.com/Ananthapadmanabhan333/Github-Enablment-Task) | [gym-excuse-gen](https://github.com/Ananthapadmanabhan333/gym-excuse-gen)
+- [interview-company-wise-problems](https://github.com/Ananthapadmanabhan333/interview-company-wise-problems) | [Awesome-Projects](https://github.com/Ananthapadmanabhan333/Awesome-Projects) | [My-Projects](https://github.com/Ananthapadmanabhan333/My-Projects)
+- [AI-Lab](https://github.com/Ananthapadmanabhan333/AI-Lab) | [Code-Snippets](https://github.com/Ananthapadmanabhan333/Code-Snippets) | [Personal-Website](https://github.com/Ananthapadmanabhan333/Personal-Website)
+- [Data-Structures](https://github.com/Ananthapadmanabhan333/Data-Structures) | [Algorithms](https://github.com/Ananthapadmanabhan333/Algorithms) | [forage-midas](https://github.com/Ananthapadmanabhan333/forage-midas)
+</details>
 
 ---
 
