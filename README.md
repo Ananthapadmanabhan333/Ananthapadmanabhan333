@@ -199,6 +199,12 @@ I am a multi-disciplinary **AI Full Stack Developer** and **Product Engineer** d
 - [chat-App](https://github.com/Ananthapadmanabhan333/chat-App) | *Structure: Socket.io Real-time*
 - [Movie_listing_web](https://github.com/Ananthapadmanabhan333/Movie_listing_web) | *Structure: API Consumer App*
 - [500-AI-Agents-Projects](https://github.com/Ananthapadmanabhan333/500-AI-Agents-Projects) | *Structure: Curated Resource List*
+
+<details>
+<summary><b>🧠 50+ Machine Learning Mini-Projects</b></summary>
+<blockquote><b>Architecture:</b> End-to-end ML pipelines covering classification, regression, time-series, NLP, and computer vision.</blockquote>
+
+- [ML-Projects](https://github.com/Ananthapadmanabhan333/ML-Projects) | **Structure:** Comprehensive ML Collection | *Python / Jupyter*
 </details>
 
 ---
