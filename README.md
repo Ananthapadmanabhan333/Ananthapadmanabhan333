@@ -208,3 +208,44 @@ I am a multi-disciplinary **AI Full Stack Developer** and **Product Engineer** d
 - [portfolio](https://github.com/Ananthapadmanabhan333/portfolio) | [Personal-Website](https://github.com/Ananthapadmanabhan333/Personal-Website) | [Biography-page](https://github.com/Ananthapadmanabhan333/Biography-page)
 - [Universal-Master-Prompt](https://github.com/Ananthapadmanabhan333/Universal-Master-Prompt) | [500-AI-Agents-Projects](https://github.com/Ananthapadmanabhan333/500-AI-Agents-Projects)
 </details>
+
+---
+
+### 🧠 50+ Machine Learning Mini-Projects
+
+> **Architecture**: End-to-end ML pipelines spanning classification, regression, time-series forecasting, NLP, computer vision, and clustering. These projects demonstrate a transition from research-grade modeling to production-ready deployments.
+
+- [ML-Projects](https://github.com/Ananthapadmanabhan333/ML-Projects) | **Structure:** Comprehensive ML Collection | *Python / Jupyter*
+
+---
+
+### 📊 Technical Pulse
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ananthapadmanabhan333&show_icons=true&theme=dark&count_private=true&border_color=4285F4&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananthapadmanabhan333&layout=compact&theme=dark&hide=html,css&border_color=4285F4&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ananthapadmanabhan333&theme=dark&border_color=4285F4&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📫 Connect with the Architect
+
+<p align="center">
+  <a href="https://linkedin.com/in/ananthapadmanabhan-d-s">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:Padmanabhan086@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/Ananth_DS">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ananthapadmanabhan333&color=4285F4&style=flat-square" alt="Profile Views" />
+</p>
