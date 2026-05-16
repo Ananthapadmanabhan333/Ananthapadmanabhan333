@@ -200,12 +200,13 @@ I am a multi-disciplinary **AI Full Stack Developer** and **Product Engineer** d
 - [Movie_listing_web](https://github.com/Ananthapadmanabhan333/Movie_listing_web) | *Structure: API Consumer App*
 - [500-AI-Agents-Projects](https://github.com/Ananthapadmanabhan333/500-AI-Agents-Projects) | *Structure: Curated Resource List*
 
-<details>
-<summary><b>🧠 50+ Machine Learning Mini-Projects</b></summary>
-<blockquote><b>Architecture:</b> End-to-end ML pipelines covering classification, regression, time-series, NLP, and computer vision.</blockquote>
+---
+
+### 🧠 50+ Machine Learning Mini-Projects
+
+> **Architecture**: End-to-end ML pipelines spanning classification, regression, time-series forecasting, NLP, computer vision, and clustering. These projects demonstrate a transition from research-grade modeling to production-ready deployments.
 
 - [ML-Projects](https://github.com/Ananthapadmanabhan333/ML-Projects) | **Structure:** Comprehensive ML Collection | *Python / Jupyter*
-</details>
 
 ---
 
