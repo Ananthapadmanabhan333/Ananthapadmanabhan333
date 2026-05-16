@@ -119,193 +119,92 @@ I am a multi-disciplinary **AI Full Stack Developer** and **Product Engineer** d
 ### 📂 Master Engineering Index (121 Repositories)
 
 <details>
-<summary><b>🌌 Singularity & Omega Architectures</b></summary>
-<blockquote><b>Architecture:</b> Exascale Autonomous Environments. Distributed agent clusters with real-time telemetry.</blockquote>
+<summary><b>🌌 Architectural Sovereignty (Singularity & Omega)</b></summary>
+<blockquote><b>Architecture:</b> Core "Operating System" architectures for autonomous intelligence at scale. Exascale environments with real-time telemetry.</blockquote>
 
-- [Social-Mind-Singularity-](https://github.com/Ananthapadmanabhan333/Social-Mind-Singularity-) | **Structure:** Event-driven Multi-agent Social Sim | *Python*
+- [Social-Mind-Singularity-](https://github.com/Ananthapadmanabhan333/Social-Mind-Singularity-) | **Structure:** Behavioral Intelligence OS | *Python*
 - [DEVOS-Singularity](https://github.com/Ananthapadmanabhan333/DEVOS-Singularity) | **Structure:** AI-Native Engineering OS | *TypeScript*
-- [Civic-AI-Singularity](https://github.com/Ananthapadmanabhan333/Civic-AI-Singularity) | **Structure:** Autonomous Urban Governance Engine | *Python*
-- [Legacy-X-Singularity](https://github.com/Ananthapadmanabhan333/Legacy-X-Singularity) | **Structure:** Enterprise Legacy Migration Suite | *TypeScript*
-- [Synapse-ERP-Singularity](https://github.com/Ananthapadmanabhan333/Synapse-ERP-Singularity) | **Structure:** Autonomous Agentic ERP | *TypeScript*
-- [QuantumShield-Omega](https://github.com/Ananthapadmanabhan333/QuantumShield-Omega) | **Structure:** AI-Powered Cybersecurity OS | *TypeScript*
-- [Helios-Drive-Singularity-](https://github.com/Ananthapadmanabhan333/Helios-Drive-Singularity-) | **Structure:** Autonomous Mobility Simulation | *Python*
-- [Titan-Scheduler-Omega](https://github.com/Ananthapadmanabhan333/Titan-Scheduler-Omega) | **Structure:** Distributed GPU Resource Scheduler | *TypeScript*
-- [Atlas-Flow-X](https://github.com/Ananthapadmanabhan333/Atlas-Flow-X) | **Structure:** Global Supply Chain Agent | *TypeScript*
-- [NeuralWeb-X](https://github.com/Ananthapadmanabhan333/NeuralWeb-X) | **Structure:** Semantic Web Search Engine | *TypeScript*
-- [Neurosync-X](https://github.com/Ananthapadmanabhan333/Neurosync-X) | **Structure:** Neural Interface Integration | *TypeScript*
-- [AstraQuant-X](https://github.com/Ananthapadmanabhan333/AstraQuant-X) | **Structure:** Autonomous Quantitative Engine | *Python*
-- [ARES-X](https://github.com/Ananthapadmanabhan333/ARES-X) | **Structure:** Exascale Resource Arbiter | *TypeScript*
-- [Quantmind](https://github.com/Ananthapadmanabhan333/Quantmind) | **Structure:** Cognitive Financial Intelligence | *Python*
-- [AdSpectra-OS](https://github.com/Ananthapadmanabhan333/AdSpectra-OS) | **Structure:** Autonomous Marketing OS | *TypeScript*
-- [Aegis-Global](https://github.com/Ananthapadmanabhan333/Aegis-Global) | **Structure:** Planetary Security Framework | *TypeScript*
+- [Civic-AI-Singularity](https://github.com/Ananthapadmanabhan333/Civic-AI-Singularity) | **Structure:** National Infrastructure Platform | *Python*
+- [Legacy-X-Singularity](https://github.com/Ananthapadmanabhan333/Legacy-X-Singularity) | **Structure:** Enterprise Migration OS | *TypeScript*
+- [Synapse-ERP-Singularity](https://github.com/Ananthapadmanabhan333/Synapse-ERP-Singularity) | **Structure:** Autonomous Enterprise OS | *TypeScript*
+- [QuantumShield-Omega](https://github.com/Ananthapadmanabhan333/QuantumShield-Omega) | **Structure:** Cybersecurity OS Framework | *TypeScript*
+- [Titan-Scheduler-Omega](https://github.com/Ananthapadmanabhan333/Titan-Scheduler-Omega) | **Structure:** Distributed GPU Arbiter | *TypeScript*
 </details>
 
 <details>
-<summary><b>🤖 Autonomous Agents & AI Orchestration</b></summary>
-<blockquote><b>Architecture:</b> LangGraph/Chain execution engines with persistent state and tool-calling capabilities.</blockquote>
+<summary><b>🛡️ Trust, Security & Digital Forensics</b></summary>
+<blockquote><b>Architecture:</b> Autonomous trust layers, security middlewares, and forensic intelligence engines.</blockquote>
 
-- [Code-Writing-and-Shipping-Agent](https://github.com/Ananthapadmanabhan333/Code-Writing-and-Shipping-Agent) | **Structure:** CI/CD Integrated Agent | *Python*
-- [Freelance-Job-Application-Agent](https://github.com/Ananthapadmanabhan333/Freelance-Job-Application-Agent) | **Structure:** Automated Proposal Engine | *Python*
-- [Github-Issues-Manager-Agent](https://github.com/Ananthapadmanabhan333/Github-Issues-Manager-Agent) | **Structure:** Autonomous Repo Triage | *Python*
-- [Producthunt-Gap-Finder-Agent](https://github.com/Ananthapadmanabhan333/Producthunt-Gap-Finder-Agent) | **Structure:** Market Intelligence Scraper | *Python*
-- [Learn-Agent](https://github.com/Ananthapadmanabhan333/Learn-Agent) | **Structure:** Personalized Curriculum Agent | *Python*
-- [AI-personal-chief-of-staff](https://github.com/Ananthapadmanabhan333/AI-personal-chief-of-staff) | **Structure:** Executive Orchestrator | *TypeScript*
-- [Meeting-Recordings--Actions-Items-AI](https://github.com/Ananthapadmanabhan333/Meeting-Recordings--Actions-Items-AI) | **Structure:** Semantic Meeting Auditor | *Python*
-- [Life-Strategy-Consultant](https://github.com/Ananthapadmanabhan333/Life-Strategy-Consultant) | **Structure:** Decision Optimization Agent | *TypeScript*
-- [multi-agent-system](https://github.com/Ananthapadmanabhan333/multi-agent-system) | **Structure:** Collaborative Agent Swarm | *Python*
+- [Black-Box](https://github.com/Ananthapadmanabhan333/Black-Box) | **Structure:** Agentic Security & Trust Layer | *TypeScript*
+- [ARES-X](https://github.com/Ananthapadmanabhan333/ARES-X) | **Structure:** Distributed Forensics System | *TypeScript*
+- [Prompt-Injection-Detector](https://github.com/Ananthapadmanabhan333/Prompt-Injection-Detector) | **Structure:** Security Middleware | *TypeScript*
+- [AI-Security-Vulnerability-Detector-and-Auto-Fixer](https://github.com/Ananthapadmanabhan333/AI-Security-Vulnerability-Detector-and-Auto-Fixer) | **Structure:** Self-Healing Security Agent | *Python*
 </details>
 
 <details>
-<summary><b>🔬 AI Research & Machine Learning</b></summary>
-<blockquote><b>Architecture:</b> Transformer-based pipelines, Vector Retrieval, and fine-tuning scripts.</blockquote>
+<summary><b>💹 Fintech & Quantitative Intelligence</b></summary>
+<blockquote><b>Architecture:</b> High-frequency risk engines and cognitive financial intelligence frameworks.</blockquote>
 
-- [RAG-Pipeline-with-EVALS-and-Monitoring-](https://github.com/Ananthapadmanabhan333/RAG-Pipeline-with-EVALS-and-Monitoring-) | **Structure:** Production RAG Loop | *TypeScript*
-- [Large-Codebase-Semantic-Search-Engine](https://github.com/Ananthapadmanabhan333/Large-Codebase-Semantic-Search-Engine) | **Structure:** AST-based Vector Search | *Python*
-- [Fine-Tuned-Coding-Model-Deployment](https://github.com/Ananthapadmanabhan333/Fine-Tuned-Coding-Model-Deployment) | **Structure:** Llama-Cpp / vLLM API | *Python*
-- [airllm](https://github.com/Ananthapadmanabhan333/airllm) | **Structure:** Low-VRAM Inference Engine | *Jupyter*
-- [Scrapegraph-ai](https://github.com/Ananthapadmanabhan333/Scrapegraph-ai) | **Structure:** LLM-based Web Scraping | *Python*
-- [Symptom-Prediction](https://github.com/Ananthapadmanabhan333/Symptom-Prediction) | **Structure:** Random Forest / CNN Classifier | *Python*
-- [Mentalist-LLM](https://github.com/Ananthapadmanabhan333/Mentalist-LLM) | **Structure:** Psychological Pattern Cognition | *Python*
-- [Mutant-IQ](https://github.com/Ananthapadmanabhan333/Mutant-IQ) | **Structure:** Evolutionary AI Architecture | *Python*
-- [Rank-Forge-AI](https://github.com/Ananthapadmanabhan333/Rank-Forge-AI) | **Structure:** Semantic Ranking Engine | *Python*
-- [SignalAI](https://github.com/Ananthapadmanabhan333/SignalAI) | **Structure:** Real-time Pattern Intelligence | *TypeScript*
-- [LLMs-from-scratch](https://github.com/Ananthapadmanabhan333/LLMs-from-scratch) | **Structure:** Core Transformer Impls | *Python*
-- [Ai-Negotiation-stimulator](https://github.com/Ananthapadmanabhan333/Ai-Negotiation-stimulator) | **Structure:** Game Theory Agent | *Python*
-</details>
-
-<details>
-<summary><b>🛠️ Systems, Backend & Security</b></summary>
-<blockquote><b>Architecture:</b> Microservices with REST/GraphQL, Security Layers, and Data Persistence.</blockquote>
-
-- [Prompt-Injection-Detector](https://github.com/Ananthapadmanabhan333/Prompt-Injection-Detector) | **Structure:** LLM Security Middleware | *TypeScript*
-- [Full-Observability-AI-Platform](https://github.com/Ananthapadmanabhan333/Full-Observability-AI-Platform) | **Structure:** Semantic Tracing Suite | *TypeScript*
-- [AI-Security-Vulnerability-Detector-and-Auto-Fixer](https://github.com/Ananthapadmanabhan333/AI-Security-Vulnerability-Detector-and-Auto-Fixer) | **Structure:** Static Analysis + LLM Fixer | *Python*
-- [AI-Powered-API-load-Tester-And-Performance-Intelligence-Platform](https://github.com/Ananthapadmanabhan333/AI-Powered-API-load-Tester-And-Performance-Intelligence-Platform) | **Structure:** Stress-Test Analytics | *TypeScript*
-- [API-Reverse-Engineer-And-SDK-Generation-Platform](https://github.com/Ananthapadmanabhan333/API-Reverse-Engineer-And-SDK-Generation-Platform) | **Structure:** Dynamic OpenAPI Generator | *TypeScript*
-- [Reputation-score-Platform](https://github.com/Ananthapadmanabhan333/Reputation-score-Platform) | **Structure:** Decentralized Scoring System | *TypeScript*
-- [Environment-optimization-service](https://github.com/Ananthapadmanabhan333/Environment-optimization-service) | **Structure:** Resource Lifecycle Manager | *Go*
-- [gstack](https://github.com/Ananthapadmanabhan333/gstack) | **Structure:** High-performance Full-Stack SDK | *TypeScript*
-- [unified-grievance-system](https://github.com/Ananthapadmanabhan333/unified-grievance-system) | **Structure:** Enterprise CRM Backbone | *TypeScript*
-</details>
-
-<details>
-<summary><b>🎨 Full Stack & Product Engineering</b></summary>
-<blockquote><b>Architecture:</b> Component-based UIs with Server-Side Rendering (SSR) and Client-Side Hydration.</blockquote>
-
-- [Idea-to-MVP-Spec-Generator-](https://github.com/Ananthapadmanabhan333/Idea-to-MVP-Spec-Generator-) | **Structure:** Next.js / Tailwind Architecture | *TypeScript*
-- [Landing-Page-Builder-From-One-Sentence](https://github.com/Ananthapadmanabhan333/Landing-Page-Builder-From-One-Sentence) | **Structure:** Headless Component Assembly | *TypeScript*
-- [SAAS-BOILERPLATE-GENERATOR](https://github.com/Ananthapadmanabhan333/SAAS-BOILERPLATE-GENERATOR) | **Structure:** Modular Template Engine | *TypeScript*
-- [MEDSIGHT](https://github.com/Ananthapadmanabhan333/MEDSIGHT) | **Structure:** HIPAA-compliant React Suite | *TypeScript*
-- [Hospital-Management](https://github.com/Ananthapadmanabhan333/Hospital-Management) | **Structure:** Full-Stack Node.js App | *JavaScript*
-- [Freelancer-CRM-with-AI](https://github.com/Ananthapadmanabhan333/Freelancer-CRM-with-AI) | **Structure:** Next.js CRM Dashboard | *TypeScript*
-- [Personal-Data-Marketplace](https://github.com/Ananthapadmanabhan333/Personal-Data-Marketplace) | **Structure:** Data Ownership Platform | *TypeScript*
+- [Quantmind](https://github.com/Ananthapadmanabhan333/Quantmind) | **Structure:** Quantitative Risk Engine | *Python*
+- [AstraQuant-X](https://github.com/Ananthapadmanabhan333/AstraQuant-X) | **Structure:** Autonomous Trading Engine | *Python*
+- [Financial-Reality-Stimulator](https://github.com/Ananthapadmanabhan333/Financial-Reality-Stimulator) | **Structure:** Monte Carlo Agent | *TypeScript*
 - [CashScope-AI](https://github.com/Ananthapadmanabhan333/CashScope-AI) | **Structure:** Intelligent FinTech Dashboard | *TypeScript*
-- [AI-for-healthcare](https://github.com/Ananthapadmanabhan333/AI-for-healthcare) | **Structure:** Clinical Decision System | *Python*
-- [burnout-recovery-clinics](https://github.com/Ananthapadmanabhan333/burnout-recovery-clinics) | **Structure:** Wellness Management App | *TypeScript*
-- [automation-for-small-business](https://github.com/Ananthapadmanabhan333/automation-for-small-business) | **Structure:** Low-code Automation Hub | *TypeScript*
-- [adaptive-learning-platform](https://github.com/Ananthapadmanabhan333/adaptive-learning-platform) | **Structure:** Personalized EduTech | *TypeScript*
-- [ai-fitness-tracker](https://github.com/Ananthapadmanabhan333/ai-fitness-tracker) | **Structure:** Computer Vision Workouts | *Python*
-- [Ai_fitness_App](https://github.com/Ananthapadmanabhan333/Ai_fitness_App) | **Structure:** Cross-platform Fitness UI | *Flutter*
-- [budget-app](https://github.com/Ananthapadmanabhan333/budget-app) | **Structure:** Real-time Expense Tracking | *TypeScript*
-- [youtube_clone](https://github.com/Ananthapadmanabhan333/youtube_clone) | **Structure:** High-fidelity Video Streamer | *TypeScript*
-- [Resonance](https://github.com/Ananthapadmanabhan333/Resonance) | **Structure:** Real-time Audio Analytics | *TypeScript*
-- [employee-management](https://github.com/Ananthapadmanabhan333/employee-management) | **Structure:** Enterprise HR Suite | *TypeScript*
-- [challi-detector](https://github.com/Ananthapadmanabhan333/challi-detector) | **Structure:** Niche Security Product | *Python*
 </details>
 
 <details>
-<summary><b>🧪 Specialized Tools & Experiments</b></summary>
-<blockquote><b>Architecture:</b> Single-purpose utilities and experimental integrations.</blockquote>
+<summary><b>⚖️ Legal-Tech & Intellectual Property</b></summary>
+<blockquote><b>Architecture:</b> AI-driven claim intelligence and legal risk scoring engines.</blockquote>
 
-- [Cross-Framework-Code-Migration-Platform](https://github.com/Ananthapadmanabhan333/Cross-Framework-Code-Migration-Platform) | **Structure:** Transpiler-based AI Agent | *TypeScript*
-- [VS-Code-AI-Copilot-Extension-Platform](https://github.com/Ananthapadmanabhan333/VS-Code-AI-Copilot-Extension-Platform) | **Structure:** VS Code Extension Host | *TypeScript*
-- [Financial-Reality-Stimulator](https://github.com/Ananthapadmanabhan333/Financial-Reality-Stimulator) | **Structure:** Monte Carlo Simulation Agent | *TypeScript*
-- [Longevity-Optimization-Clinics](https://github.com/Ananthapadmanabhan333/Longevity-Optimization-Clinics) | **Structure:** Next.js Landing Page | *TypeScript*
-- [attention-tracking-app](https://github.com/Ananthapadmanabhan333/attention-tracking-app) | **Structure:** Focus Optimization Tool | *Python*
-- [Multimodel-Document-Intelligence-Platform](https://github.com/Ananthapadmanabhan333/Multimodel-Document-Intelligence-Platform) | **Structure:** Multi-modal OCR/RAG | *Python*
+- [Patent-](https://github.com/Ananthapadmanabhan333/Patent-) | **Structure:** PatentIQ Infringement Engine | *Research*
 </details>
 
 <details>
-<summary><b>🏥 Health, Medical & Wellness</b></summary>
-<blockquote><b>Focus:</b> Clinical intelligence, bio-informatics, and fitness automation.</blockquote>
+<summary><b>📡 Infrastructure & Real-Time Response</b></summary>
+<blockquote><b>Architecture:</b> Disaster response, blockchain toolchains, and environment optimization.</blockquote>
 
-- [Medicine](https://github.com/Ananthapadmanabhan333/Medicine) | [BioNexus-AI](https://github.com/Ananthapadmanabhan333/BioNexus-AI) | [neurodiversity_ai](https://github.com/Ananthapadmanabhan333/neurodiversity_ai)
+- [Aegis-Global](https://github.com/Ananthapadmanabhan333/Aegis-Global) | **Structure:** Disaster Response OS | *TypeScript*
+- [acton](https://github.com/Ananthapadmanabhan333/acton) | **Structure:** TON Blockchain Toolchain | *C++*
+- [Environment-optimization-service](https://github.com/Ananthapadmanabhan333/Environment-optimization-service) | **Structure:** Resource Lifecycle Manager | *Go*
+- [Reputation-score-Platform](https://github.com/Ananthapadmanabhan333/Reputation-score-Platform) | **Structure:** Decentralized Scoring | *TypeScript*
+</details>
+
+<details>
+<summary><b>🏢 Enterprise Decision Intelligence</b></summary>
+<blockquote><b>Architecture:</b> Decision engines designed to detect inefficiencies and simulate high-level reasoning.</blockquote>
+
+- [synaspse_ai](https://github.com/Ananthapadmanabhan333/synaspse_ai) | **Structure:** Cognitive Enterprise Engine | *Python*
+- [AdSpectra-OS](https://github.com/Ananthapadmanabhan333/AdSpectra-OS) | **Structure:** Autonomous Marketing OS | *TypeScript*
+- [Freelancer-CRM-with-AI](https://github.com/Ananthapadmanabhan333/Freelancer-CRM-with-AI) | **Structure:** Intelligent CRM Dashboard | *TypeScript*
+</details>
+
+<details>
+<summary><b>🌍 Social Impact & Cognitive Intelligence</b></summary>
+<blockquote><b>Architecture:</b> Behavioral telemetry, inclusion OS, and cultural intelligence analysis.</blockquote>
+
+- [karmlink](https://github.com/Ananthapadmanabhan333/karmlink) | **Structure:** Worker OS for Informal Workforce | *TypeScript*
+- [Neurosync-X](https://github.com/Ananthapadmanabhan333/Neurosync-X) | **Structure:** Behavioral Intent Telemetry | *TypeScript*
+- [astrux](https://github.com/Ananthapadmanabhan333/astrux) | **Structure:** Astra Cultural IQ Engine | *Python*
+- [neurodiversity_ai](https://github.com/Ananthapadmanabhan333/neurodiversity_ai) | **Structure:** Cognitive Inclusion Engine | *Python*
+</details>
+
+<details>
+<summary><b>🏥 Health & Wellness Automation</b></summary>
+
+- [Medicine](https://github.com/Ananthapadmanabhan333/Medicine) | [BioNexus-AI](https://github.com/Ananthapadmanabhan333/BioNexus-AI) | [MEDSIGHT](https://github.com/Ananthapadmanabhan333/MEDSIGHT)
 - [fitness_excuss](https://github.com/Ananthapadmanabhan333/fitness_excuss) | [gym-excuse-gen](https://github.com/Ananthapadmanabhan333/gym-excuse-gen) | [openhuman](https://github.com/Ananthapadmanabhan333/openhuman)
+- [AI-for-healthcare](https://github.com/Ananthapadmanabhan333/AI-for-healthcare) | [burnout-recovery-clinics](https://github.com/Ananthapadmanabhan333/burnout-recovery-clinics)
 </details>
 
 <details>
-<summary><b>💰 Finance & Quantitative Engineering</b></summary>
-<blockquote><b>Focus:</b> Quantitative analysis, algorithmic simulation, and fintech utilities.</blockquote>
-
-- [forage-midas](https://github.com/Ananthapadmanabhan333/forage-midas) | [Financial-Reality-Stimulator](https://github.com/Ananthapadmanabhan333/Financial-Reality-Stimulator) | [AstraQuant-X](https://github.com/Ananthapadmanabhan333/AstraQuant-X)
-</details>
-
-<details>
-<summary><b>🧠 Academic, DSA & Cognitive Learning</b></summary>
-<blockquote><b>Focus:</b> Algorithmic foundations, system design, and AI laboratory programs.</blockquote>
+<summary><b>🧠 Academic Foundations & DSA</b></summary>
 
 - [Data-Structures](https://github.com/Ananthapadmanabhan333/Data-Structures) | [Algorithms](https://github.com/Ananthapadmanabhan333/Algorithms) | [system-design-notes](https://github.com/Ananthapadmanabhan333/system-design-notes)
 - [interview-company-wise-problems](https://github.com/Ananthapadmanabhan333/interview-company-wise-problems) | [CSE-AIML-AI-lab-Program](https://github.com/Ananthapadmanabhan333/CSE-AIML-AI-lab-Program) | [AI-Lab](https://github.com/Ananthapadmanabhan333/AI-Lab)
-- [skills-communicate-using-markdown](https://github.com/Ananthapadmanabhan333/skills-communicate-using-markdown) | [Github-Enablment-Task](https://github.com/Ananthapadmanabhan333/Github-Enablment-Task)
 </details>
 
 <details>
 <summary><b>🎨 Personal Brand & Professional Assets</b></summary>
-<blockquote><b>Focus:</b> Portfolio architecture, professional documentation, and curated resources.</blockquote>
 
 - [portfolio](https://github.com/Ananthapadmanabhan333/portfolio) | [Personal-Website](https://github.com/Ananthapadmanabhan333/Personal-Website) | [Biography-page](https://github.com/Ananthapadmanabhan333/Biography-page)
-- [My-Projects](https://github.com/Ananthapadmanabhan333/My-Projects) | [Awesome-Projects](https://github.com/Ananthapadmanabhan333/Awesome-Projects) | [Code-Snippets](https://github.com/Ananthapadmanabhan333/Code-Snippets)
 - [Universal-Master-Prompt](https://github.com/Ananthapadmanabhan333/Universal-Master-Prompt) | [500-AI-Agents-Projects](https://github.com/Ananthapadmanabhan333/500-AI-Agents-Projects)
 </details>
-
-<details>
-<summary><b>🛠️ Social, Utilities & Misc Experiments</b></summary>
-<blockquote><b>Focus:</b> Real-time communication, civic tools, and architectural experiments.</blockquote>
-
-- [chat-App](https://github.com/Ananthapadmanabhan333/chat-App) | [Movie_listing_web](https://github.com/Ananthapadmanabhan333/Movie_listing_web) | [laundrywala](https://github.com/Ananthapadmanabhan333/laundrywala)
-- [todolist](https://github.com/Ananthapadmanabhan333/todolist) | [Mash](https://github.com/Ananthapadmanabhan333/Mash) | [acton](https://github.com/Ananthapadmanabhan333/acton)
-- [Offline-Network-Clubs](https://github.com/Ananthapadmanabhan333/Offline-Network-Clubs) | [govTech](https://github.com/Ananthapadmanabhan333/govTech) | [karmlink](https://github.com/Ananthapadmanabhan333/karmlink)
-- [astrux](https://github.com/Ananthapadmanabhan333/astrux) | [synaspse_ai](https://github.com/Ananthapadmanabhan333/synaspse_ai) | [Black-Box](https://github.com/Ananthapadmanabhan333/Black-Box)
-- [Patent-](https://github.com/Ananthapadmanabhan333/Patent-) | [LINK-CAMP-2025-Webmaster-Task](https://github.com/Ananthapadmanabhan333/LINK-CAMP-2025-Webmaster-Task) | [cubic_solver.ipynb](https://github.com/Ananthapadmanabhan333/cubic_solver.ipynb) | [MVP](https://github.com/Ananthapadmanabhan333/MVP)
-</details>
-
----
-
-### 🧠 50+ Machine Learning Mini-Projects
-
-> **Architecture**: End-to-end ML pipelines spanning classification, regression, time-series forecasting, NLP, computer vision, and clustering. These projects demonstrate a transition from research-grade modeling to production-ready deployments.
-
-- [ML-Projects](https://github.com/Ananthapadmanabhan333/ML-Projects) | **Structure:** Comprehensive ML Collection | *Python / Jupyter*
-
----
-
-### 📊 Technical Pulse
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ananthapadmanabhan333&show_icons=true&theme=dark&count_private=true&border_color=4285F4&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananthapadmanabhan333&layout=compact&theme=dark&hide=html,css&border_color=4285F4&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ananthapadmanabhan333&theme=dark&border_color=4285F4&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</p>
-
----
-
-### 📫 Connect with the Architect
-
-<p align="center">
-  <a href="https://linkedin.com/in/ananthapadmanabhan-d-s">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:Padmanabhan086@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/Ananth_DS">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ananthapadmanabhan333&color=4285F4&style=flat-square" alt="Profile Views" />
-</p>
